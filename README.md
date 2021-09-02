@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-> 你可能在找第13关的答案，给你个提示: `)&%%+~`
-
 [![wilhantian's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilhantian&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+> 你可能在找第13关的答案，给你个提示: `)&%%+~`
 
 <!--
 **wilhantian/wilhantian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
